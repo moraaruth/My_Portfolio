@@ -92,12 +92,13 @@
  ul{
      float: left;
      margin-top: 8px;
-     list-style: none;
+    
  }
  
  li{
      display: inline-block;
-     padding: 15px 30px;
+     padding: 15px 5px;
+     
  }
  
  a{
@@ -226,21 +227,22 @@
  
 
  }
+ .heading{
+     font-size: 25px;
+ }
  
  .my_projects{
      margin: 15px;
  }
  
  .projects{
-     margin: 15px;
+     margin: 8px;
+     font-size: 25px;
+     list-style: none;
  }
  
  
- .main-container{
 
- 
- 
- }
  .contact{
      width:100%;
      margin: 30px ;
@@ -257,3 +259,4 @@
  
      padding: 1rem;
  }
+ 
