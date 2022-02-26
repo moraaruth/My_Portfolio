@@ -109,6 +109,8 @@
      border: 2px solid black;
  
  }
+
+
  
  
  .right-column{
@@ -169,5 +171,9 @@
  td{
  
      padding: 1rem;
+ }
+
+ #my_projects{
+     
  }
  
