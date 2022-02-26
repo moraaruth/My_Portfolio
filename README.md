@@ -32,7 +32,7 @@ Ruth Moraa
 * CSS - which was used to style the pages incuding the left aside navigation bar
 
 ## link to live site on GitHub Pages
-moraaruth.github.io/my_portfolio/
+https://moraaruth.github.io/My_Portfolio/
 
 ## Reference
 * Materialize CSS
