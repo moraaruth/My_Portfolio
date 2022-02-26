@@ -8,6 +8,7 @@ Ruth Moraa
 
 + [Description](#description)
 + [Technology Used](#technology-used)
++ [link to live site on GitHub Pages] (#link to live site on GitHub Pages)
 + [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
@@ -29,6 +30,9 @@ Ruth Moraa
 * HTML - which was used to build the structure of the pages.
 
 * CSS - which was used to style the pages incuding the left aside navigation bar
+
+## link to live site on GitHub Pages
+moraaruth.github.io/my_portfolio/
 
 ## Reference
 * Materialize CSS
