@@ -91,7 +91,7 @@
  }
  
  a:hover{
-     color:#FFC300;
+     color:blueviolet;
      transition:0.5s;
  
  
@@ -176,7 +176,4 @@
      padding: 1rem;
  }
 
- #my_projects{
-     
- }
  
