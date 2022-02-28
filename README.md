@@ -8,7 +8,6 @@ Ruth Moraa
 
 + [Description](#description)
 + [Technology Used](#technology-used)
-+ link to live site on GitHub Pages (#link to live site on GitHub Pages)
 + [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
